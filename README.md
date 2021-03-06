@@ -1,3 +1,3 @@
 # Drink_Tracker
 
-* Microsoft Lobe*
+* Microsoft Lobe
